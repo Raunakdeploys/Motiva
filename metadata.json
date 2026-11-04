@@ -1,0 +1,8 @@
+{
+  "name": "MOTIVA — Evidence-to-Publishing Studio",
+  "description": "Turn clinical papers into source-linked, human-reviewed claims and responsible health content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
